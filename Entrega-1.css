@@ -134,7 +134,7 @@
     margin: 18px;
 }
 
-#logo-fluxo{
+#logo-fluxo1{
     width: 50px;
     height: 50px;
 }
@@ -192,4 +192,26 @@
 
 .comando{
     color:#B4B6BA;
+    font-weight: bold;
+}
+
+#adicionar-comentario{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+    margin: 20px;
+    margin-top: 90px;
+}
+
+input{
+    border-radius: 20px;
+    height: 35px;
+    width: 265px;
+    background-color: #3A3B3C;
+}
+
+#logo-fluxo2{
+    width: 35x;
+    height: 35px;
 }
